@@ -1,0 +1,4 @@
+goombaWalk=0,1,
+death=2,
+koopaWalk=2,3,
+koopaHiding=0,

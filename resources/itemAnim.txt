@@ -1,0 +1,8 @@
+mushroom=0,
+flower=3,4,5,6,
+smallcoin=11,12,13,14
+b1=0,
+b2=1,
+b3=2,
+b4=3,
+fire=0,1,2,3,
