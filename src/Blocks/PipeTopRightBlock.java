@@ -1,4 +1,4 @@
-package Blocks;
+package blocks;
 
 import java.awt.image.BufferedImage;
 

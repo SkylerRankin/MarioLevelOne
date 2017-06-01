@@ -1,10 +1,12 @@
-package Game;
+package game;
 import java.awt.Point;
 import java.awt.Rectangle;
 import java.awt.image.BufferedImage;
 
+import utilities.Animator;
+
 public class Player extends Entity {
-    
+	
     String mode = "s";
     Rectangle window;
     int xDirection = 1;

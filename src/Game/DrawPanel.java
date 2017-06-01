@@ -1,4 +1,4 @@
-package Game;
+package game;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
@@ -6,7 +6,9 @@ import java.awt.Graphics;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 import javax.swing.JPanel;
-import Blocks.*;
+import blocks.*;
+import entities.Enemy;
+import utilities.Frame;
 
 public class DrawPanel extends JPanel{
     

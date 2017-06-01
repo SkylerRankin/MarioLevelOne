@@ -1,7 +1,8 @@
-package Blocks;
+package blocks;
 
 import java.awt.image.BufferedImage;
-import Game.Animator;
+
+import utilities.Animator;
 
 public class BrickBlock extends Block{
     

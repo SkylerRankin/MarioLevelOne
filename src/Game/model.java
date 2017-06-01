@@ -1,4 +1,4 @@
-package Game;
+package game;
 import java.awt.Point;
 import java.awt.Rectangle;
 import java.io.File;
@@ -6,7 +6,13 @@ import java.util.ArrayList;
 import javafx.embed.swing.JFXPanel;
 import javafx.scene.media.*;
 import javafx.util.Duration;
-import Blocks.Block;
+import blocks.Block;
+import entities.Enemy;
+import items.BrokenBrick;
+import items.Fireball;
+import items.Flower;
+import items.Mushroom;
+import items.SmallCoin;
 
 public class model {
     

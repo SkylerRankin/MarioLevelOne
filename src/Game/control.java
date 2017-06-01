@@ -1,7 +1,9 @@
-package Game;
+package game;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.Timer;
+
+import utilities.InputManager;
 
 public class control {
     

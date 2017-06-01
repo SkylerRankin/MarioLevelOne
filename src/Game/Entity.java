@@ -1,16 +1,16 @@
-package Game;
+package game;
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Rectangle;
 
 public class Entity {
     
-    int x;
-    int y;
-    public int prevX;
-    int prevY;
-    double dx;
-    double dy;
+    protected int x;
+    protected int y;
+    protected int prevX;
+    protected int prevY;
+    protected double dx;
+    protected double dy;
     
     int width;
     int height;

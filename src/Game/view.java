@@ -1,4 +1,4 @@
-package Game;
+package game;
 import java.awt.Font;
 import java.awt.GraphicsEnvironment;
 import java.awt.image.BufferedImage;

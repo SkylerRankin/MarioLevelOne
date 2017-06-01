@@ -1,4 +1,4 @@
-package Game;
+package game;
 import java.awt.EventQueue;
 
 public class MarioLevelOne {

@@ -1,10 +1,11 @@
-package Blocks;
+package blocks;
 
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Rectangle;
 import java.awt.image.BufferedImage;
-import Game.Animator;
+
+import utilities.Animator;
 
 public class Block {
     

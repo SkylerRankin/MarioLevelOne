@@ -1,8 +1,14 @@
-package Game;
+package game;
 import java.awt.Point;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
-import Blocks.*;
+
+import blocks.*;
+import entities.Enemy;
+import entities.Goomba;
+import entities.Koopa;
+import utilities.SpriteSheetManager;
+import utilities.TileManager;
 
 public class Level {
     
